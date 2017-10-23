@@ -3,6 +3,7 @@ Have you ever scrambled for rents in the last minute? Have you ever been in cred
 
 If you are short of 400 dollars to pay the rent in two weeks, but you know that you will be able to pay back in next month, register an account at Flourish with your SSN and choose a payment schedule.The standard way would be: you pay 200 dollars the first Monday after you enroll and get 400 dollars back the next Monday.You have to pay back either on the 3rd, 4th or 5th Monday, else, you will be excluded from the platform. We reward users who are willing to get a late payback by increasing their loan threshhold.
  
+ Key challenges: Implementing six functions: add a loan, provide a payment schedule in the database, choose a payment, view payment progress, view donors, close a loan;Setting up responsive interest rate; Integrating with MasterCard API.
  Hacked at Money20/20, the FinTech Hackathon in Las Vegas from October 21 to 22.
 
 <img width="411" alt="screen shot 2017-10-23 at 12 40 27 am" src="https://user-images.githubusercontent.com/18589970/31877439-5981fa8a-b78b-11e7-90bb-af6a8e5c5083.png">
